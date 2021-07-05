@@ -1,0 +1,10 @@
+PROJECT DETAILS:-
+
+Team lead id number:-190031086
+Team lead name :-M Jaideep kumar
+Team member id number:-190030704
+Team member name:-K Narayana Reddy
+-------------------------------------------
+Project ID:-15
+Project Title:-TodoApplication 
+Completion Percentage:-100
